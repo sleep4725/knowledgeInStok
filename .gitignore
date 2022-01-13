@@ -1,0 +1,9 @@
+## 확장자 무시
+*.cfg
+*.zip
+*.exe
+## 폴더 무시
+Lib/
+Scripts/
+Include/
+tmp/
